@@ -1,4 +1,7 @@
 ---
+genres:
+  - simulation
+  - casual
 directors_cut: https://www.gamedev.pl/play/unicorn-snap
 video: https://youtu.be/dfZDOYhNlPU
 # See github.com/js13kGames/hello-world for supported frontmatter
